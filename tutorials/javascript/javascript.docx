@@ -1,0 +1,12 @@
+﻿
+What is Javascript?
+
+    • Runs on client/browser, as well as server such as node, express, etc. 
+    • It is a highlevel interpreted programming language.
+    • Javascript conforms to ECMAScript Specification
+
+What is an interpreted language?
+
+High level interpreted language, don’t have to worry about memory management, as in a low level language like C or C++. Interpreted means the program is executed directly, instead of running it through a complier, as in the case of Java which is runs through a compiler. Java is a compiled language, so has a compiler is used to run it. 
+
+In contrast Javascript is a scripting interpreted language. 
